@@ -1,0 +1,63 @@
+name: Sync save
+
+on:
+  schedule:
+    - cron: '17 * * * *'   # hourly; GitHub may run scheduled jobs a few minutes late
+  workflow_dispatch:       # "Run workflow" button for an on-demand sync
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Pull newest save over SFTP
+        id: pull
+        run: node scripts/pull.mjs
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_PORT: ${{ secrets.SFTP_PORT }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
+          SAVE_DIR: ${{ secrets.SAVE_DIR }}
+
+      - name: Build digest
+        if: steps.pull.outputs.changed == 'true'
+        run: node scripts/digest.mjs save/latest.sav
+        env:
+          SAVE_NAME: ${{ steps.pull.outputs.save_name }}
+          NODE_OPTIONS: --max-old-space-size=6144
+
+      - name: Publish raw save to the "latest" release
+        if: steps.pull.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view latest >/dev/null 2>&1 || \
+            gh release create latest --title "Latest save" --notes "Overwritten by every sync. Digest lives in state/."
+          gh release upload latest save/latest.sav --clobber
+
+      - name: Commit digest
+        if: steps.pull.outputs.changed == 'true'
+        run: |
+          git config user.name  "save-sync"
+          git config user.email "save-sync@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet && exit 0
+          git commit -m "save: ${{ steps.pull.outputs.save_name }}"
+          git push

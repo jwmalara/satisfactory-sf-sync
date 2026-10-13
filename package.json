@@ -1,0 +1,13 @@
+{
+  "name": "satisfactory-sync",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pull": "node scripts/pull.mjs",
+    "digest": "node scripts/digest.mjs"
+  },
+  "dependencies": {
+    "@etothepii/satisfactory-file-parser": "4.1.2",
+    "ssh2-sftp-client": "12.1.1"
+  }
+}
