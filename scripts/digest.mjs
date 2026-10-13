@@ -15,6 +15,9 @@ const h = save.header;
 const short = p => (p ?? '').split(/[.:]/).pop().replace(/_C$/, '');      // ".../Build_SmelterMk1.Build_SmelterMk1_C" -> "Build_SmelterMk1"
 const prop = (o, name) => { const p = o.properties?.[name]; return Array.isArray(p) ? p[0] : p; };
 const val = (o, name, dflt) => prop(o, name)?.value ?? dflt;
+// The game only serialises a bool when it is true, and the parser misreads bool values in v60 saves,
+// so presence of the property is the reliable signal.
+const flag = (o, name) => prop(o, name) !== undefined;
 const m = n => Math.round(n / 100);                                        // cm -> m
 const pos = o => o.transform?.translation ?? { x: 0, y: 0, z: 0 };
 const csv = rows => rows.map(r => r.map(c => /[",\n]/.test(String(c)) ? `"${String(c).replace(/"/g, '""')}"` : c).join(',')).join('\n') + '\n';
@@ -32,7 +35,7 @@ const phase = short(val(byType('GamePhaseManager')[0] ?? {}, 'mCurrentGamePhase'
 // --- crash sites -------------------------------------------------------------
 const pods = byType('/DropPod/BP_DropPod.').map(o => ({
   id: o.instanceName.split('.').pop(),
-  opened: !!val(o, 'mHasBeenOpened', false),
+  opened: flag(o, 'mHasBeenOpened'),
   ...pos(o),
 }));
 fs.writeFileSync(`${OUT}/crash_sites.csv`, csv([
@@ -50,7 +53,7 @@ const machines = objects.filter(isMachine).map(o => {
     recipe: short(val(o, 'mCurrentRecipe')?.pathName ?? val(o, 'mExtractableResource')?.pathName ?? val(o, 'mCurrentFuelClass')?.pathName ?? '').replace(/^(Recipe_|Desc_)/, ''),
     clock: Math.round(val(o, 'mCurrentPotential', 1) * 1000) / 10,
     sloop: val(o, 'mCurrentProductionBoost', 1),
-    paused: !!val(o, 'mIsProductionPaused', false),
+    paused: flag(o, 'mIsProductionPaused'),
     x: m(p.x), y: m(p.y), z: m(p.z),
   };
 }).sort((a, b) => a.type.localeCompare(b.type) || a.recipe.localeCompare(b.recipe) || a.x - b.x || a.y - b.y);
