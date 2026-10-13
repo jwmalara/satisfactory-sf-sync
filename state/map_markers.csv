@@ -1,0 +1,119 @@
+name,x_m,y_m,z_m
+Uranium,-363,3000,-24
+Uranium,117,2322,2
+Raw Quartz,352,1184,134
+Gas + High Container,532,1391,128
+Iron,-537,2290,-38
+Harvest Tree,480,1527,63
+Pure Copper,-835,2749,-63
+6 Pure Iron,-979,2619,-45
+Sulfer,-466,1548,66
+Uranium Mine,348,881,-48
+Power,-752,1312,-37
+Beacon,-214,2821,-25
+Beacon,-213,2820,-25
+Beacon,-142,2776,-10
+Beacon,-142,2777,-10
+Beacon,-142,2777,-10
+Beacon,-142,2777,-10
+Beacon,-139,2779,-10
+Beacon,-140,2779,-10
+Beacon,-141,2778,-10
+Beacon,-142,2778,-10
+Beacon,-144,2775,-10
+Beacon,-142,2774,-10
+Radiation,1994,1786,162
+Catium,1102,1560,42
+New Marker,559,1983,0
+Rock,-1780,446,238
+Rock,-2167,120,177
+Rock,-1466,1586,18
+Rock,959,2238,-1
+Crash,476,2135,-60
+Crash,1528,2123,0
+PURE SULFUR,-1454,1672,132
+A10 - 25 Cooling System,2618,1246,-26
+A11 - 1 Electromagnetic Control Rod,123,1142,267
+A12 - 30 Cooling System,903,1296,91
+A16 - 10 Turbo Motor,-354,1166,218
+B1 - 5 Copper Sheet,-1088,1078,102
+B2 - 5 Crystal Oscillator,-1646,1556,124
+B3 - 10 Silica,-1909,669,238
+B4 - None,-1893,1163,-18
+B5 - None,-2596,1050,-15
+B6 - None,-782,909,203
+B7 - 5 Aluminum Casing,-402,630,263
+B8 - 300 MW,-1185,749,170
+B9 - None,-1,240,327
+B10 - 150 MW,-1291,602,48
+B11 - 12 Heat Sink,-947,403,198
+C1 - 1 Turbo Motor,-35,623,221
+C2 - 420 MW,351,165,227
+C3 - 10 Cooling System,-333,52,235
+C4 - 5 Heavy Modular Frame,-952,70,251
+C5 - 25 Electromagnetic Control Rod,943,472,94
+C6 - None,1211,453,174
+C7 - 15 Crystal Oscillator,1640,613,215
+C8 - 17 Heat Sink,1445,363,173
+C9 - None,1160,214,155
+C10 - 400 MW,1914,377,57
+C11 - 1 Turbo Motor,1701,-106,188
+C12 - None,1883,-171,129
+C13 - 90 MW,667,-136,134
+C14 - 60 MW,810,-441,83
+C15 - 20 Modular Frame,552,-513,144
+C16 - 20 Plastic,-291,-226,174
+C17 - 120 MW,-893,-506,160
+C18 - 2 Quartz Crystal,-561,-729,277
+D1 - 200 MW,2323,799,-13
+D2 - 25 Turbo Motor,2499,595,24
+D3 - 25 Quartz Crystal,2321,272,-16
+D4 - 1 SKIP - Superposition Osc.,2161,-3,-16
+D5 - 10 Heavy Modular Frame,2918,748,-16
+D6 - 60 Silica,2727,281,-16
+D7 - 25 Heat Sink,2325,-205,90
+D8 - 85 MW,2933,1,5
+D9 - None,1255,-349,82
+D10 - 10 Heavy Modular Frame,1573,-402,137
+D11 - None,1984,-412,138
+D12 - 20 Plastic,2093,-669,140
+E1 - 10 Copper Sheet,1115,-545,171
+E2 - None,877,-630,134
+E3 - 2 Black Powder,-47,-763,136
+E4 - None,-263,-1290,78
+E5 - 1 Rotor,178,-1369,136
+E6 - 120 MW,-570,-1449,22
+E7 - None,983,-1498,26
+E8 - None,527,-1636,154
+E9 - 38 Quickwire,843,-1711,-3
+E10 - 10 Computer,53,-1871,-16
+E11 - None,-507,-2593,-17
+E12 - unknown,1112,-1130,0
+E13 - 57 Alclad Aluminum Sheet,1909,-1277,160
+E14 - 12 Fused Modular Frame,1591,-1451,232
+E15 - 70 MW,1098,-1627,156
+E16 - None,1193,-1657,-2
+E17 - 25 Screw,2191,-1999,65
+E18 - 35 High-Speed Connector,1908,-2368,231
+E19 - None,1762,-2440,72
+E20 - 43 Electromagnetic Control Rod,1749,-2764,212
+E21 - None,2365,-3122,100
+F1 - 15 Electromagnetic Control Rod,-1571,-63,251
+F2 - 10 Solid Biofuel,-2002,-178,122
+F3 - 120 MW,-1571,-670,118
+F4 - None,-1958,-592,-1
+F5 - 21 Rotor,-2325,-514,-4
+F6 - 5 Modular Frame,-1460,-1371,24
+F7 - 4 Rotor,-1237,-1671,297
+F8 - 100 MW,-2473,-1423,45
+F9 - 10 Copper Sheet,-1745,-1971,-15
+G1 - None,2751,-526,60
+G2 - 5 Reinforced Iron Plate,3493,-388,-15
+G3 - 5 Computer,3601,-1066,118
+G4 - 5 Iron Rod,2952,-1731,81
+G5 - 20 Steel Beam,3032,-2462,55
+G6 - 70 MW,3603,-2176,39
+G7 - None,3666,-3035,-73
+P3 - nuclear plant site,-780,1620,0
+New Marker,868,1076,99
+New Marker,-1560,1691,0

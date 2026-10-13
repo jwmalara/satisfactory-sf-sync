@@ -1,0 +1,254 @@
+# Stino's Game
+
+Save time: 2026-10-13T07:15:47.178Z (file: Stino's Game_autosave_2.sav) · play time 4663.4 h · save v60 / build 513885
+Game phase: GP_Project_Assembly_Phase_3 · machines: 422 · crash sites opened: 0 of 118
+
+## Milestones purchased (42)
+1-1, 1-2, 1-3, 2-1, 2-2, 2-3, 2-5, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 4-5, 5-1, 5-1-1, 5-2, 5-3, 5-4, 5-4-1, 5-5, 5-5-1, 6-1, 6-2, 6-3, 6-5, 6-6, 6-7, 7-1, 7-1-1, 7-2, 7-3, 7-4, 7-4-1, 7-5, 8-1, 8-2, 8-2-1, 8-3, 8-4
+
+## Alternate recipes (12)
+EnrichedCoal, IngotSteel1, InventorySlots1, InventorySlots2, Motor1, Plastic1, PureIronIngot, Quickwire, Screw, SloppyAlumina, SteamedCopperSheet, TurboFuel
+
+## MAM research (77)
+Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DNACapsule, Research_AO_Hatcher, Research_AO_Pre_Rebar, Research_AO_Stinger, Research_AOrganisms_2, Research_AOrgans_0, Research_AOrgans_2, Research_AOrgans_3, Research_Alien_ActiveSAM, Research_Alien_BoosterBlocker, Research_Alien_CentralInventory, Research_Alien_CentralStackExpansion_01, Research_Alien_CentralStackExpansion_02, Research_Alien_CentralStorage, Research_Alien_CentralUploadBoost_01, Research_Alien_MercerSphere, Research_Alien_PowerBooster, Research_Alien_ProductionBooster, Research_Alien_SAM, Research_Alien_SAMFluctuator, Research_Alien_Somersloop, Research_Caterium_0, Research_Caterium_1, Research_Caterium_2, Research_Caterium_2_1, Research_Caterium_3, Research_Caterium_3_1, Research_Caterium_3_2, Research_Caterium_4_1, Research_Caterium_4_2, Research_Caterium_5, Research_Caterium_5_2, Research_Caterium_6_2, Research_Caterium_6_3, Research_Caterium_7_2, Research_HardDrive_0, Research_Mycelia_1, Research_Mycelia_2, Research_Mycelia_3, Research_Mycelia_4, Research_Mycelia_5, Research_Mycelia_6, Research_Mycelia_7, Research_Mycelia_GasMask, Research_Nutrients_0, Research_Nutrients_1, Research_Nutrients_2, Research_Nutrients_3, Research_Nutrients_4, Research_PowerSlugs_1, Research_PowerSlugs_2, Research_PowerSlugs_3, Research_PowerSlugs_4, Research_PowerSlugs_5, Research_Quartz_0, Research_Quartz_1_1, Research_Quartz_1_2, Research_Quartz_2, Research_Quartz_3_1, Research_Quartz_4, Research_Quartz_4_1, Research_Sulfur_0, Research_Sulfur_1, Research_Sulfur_3, Research_Sulfur_3_1, Research_Sulfur_4_1, Research_Sulfur_4_2, Research_Sulfur_5, Research_Sulfur_5_2, Research_Sulfur_5_2_Hidden, Research_Sulfur_6, Research_Sulfur_CompactedCoal, Research_Sulfur_ExperimentalPower, Research_Sulfur_TurboFuel
+
+## Machine counts by type
+- ConstructorMk1: 132
+- OilRefinery: 48
+- SmelterMk1: 41
+- GeneratorCoal: 40
+- MinerMk2: 28
+- GeneratorFuel: 27
+- AssemblerMk1: 25
+- FoundryMk1: 24
+- WaterPump: 21
+- ManufacturerMk1: 13
+- OilPump: 6
+- GeneratorGeoThermal: 5
+- GeneratorBiomass_Automated: 4
+- MinerMk3: 4
+- GeneratorIntegratedBiomass: 2
+- Packager: 2
+
+## Machine counts by type and recipe
+- AssemblerMk1 (Alternate_EnrichedCoal): 2
+- AssemblerMk1 (AluminumSheet): 1
+- AssemblerMk1 (Cartridge): 1
+- AssemblerMk1 (CircuitBoard): 1
+- AssemblerMk1 (EncasedIndustrialBeam): 4
+- AssemblerMk1 (Gunpowder): 2
+- AssemblerMk1 (IronPlateReinforced): 4
+- AssemblerMk1 (ModularFrame): 4
+- AssemblerMk1 (Motor): 1
+- AssemblerMk1 (Rotor): 3
+- AssemblerMk1 (Stator): 2
+- ConstructorMk1 (AluminumCasing): 1
+- ConstructorMk1 (Biofuel): 1
+- ConstructorMk1 (Cable): 2
+- ConstructorMk1 (Concrete): 6
+- ConstructorMk1 (CopperSheet): 6
+- ConstructorMk1 (FluidCanister): 1
+- ConstructorMk1 (IngotSAM): 3
+- ConstructorMk1 (IronPlate): 16
+- ConstructorMk1 (IronRod): 34
+- ConstructorMk1 (QuartzCrystal): 4
+- ConstructorMk1 (Quickwire): 6
+- ConstructorMk1 (Screw): 32
+- ConstructorMk1 (Silica): 4
+- ConstructorMk1 (SteelBeam): 5
+- ConstructorMk1 (SteelPipe): 5
+- ConstructorMk1 (Wire): 6
+- FoundryMk1 (Alternate_IngotSteel_1): 14
+- FoundryMk1 (IngotAluminum): 2
+- FoundryMk1 (IngotSteel): 8
+- GeneratorBiomass_Automated (Leaves): 4
+- GeneratorCoal (Coal): 40
+- GeneratorFuel (LiquidFuel): 27
+- GeneratorGeoThermal (BP_ResourceNodeGeyser_C_UAID_40B076DF2F796FE001_1768243264): 1
+- GeneratorGeoThermal (BP_ResourceNodeGeyser_C_UAID_40B076DF2F7974E001_1257931119): 1
+- GeneratorGeoThermal (BP_ResourceNodeGeyser_C_UAID_40B076DF2F7975E001_2124245305): 1
+- GeneratorGeoThermal (BP_ResourceNodeGeyser_C_UAID_40B076DF2F79ADDD01_1447318011): 1
+- GeneratorGeoThermal (BP_ResourceNodeGeyser_C_UAID_40B076DF2F79ADDD01_1602669012): 1
+- GeneratorIntegratedBiomass: 2
+- ManufacturerMk1 (CartridgeChaos_Packaged): 1
+- ManufacturerMk1 (Computer): 3
+- ManufacturerMk1 (ComputerSuper): 3
+- ManufacturerMk1 (ModularFrameHeavy): 6
+- MinerMk2 (BP_ResourceNode136_UAID_40B076DF2F7975DF01_1622351243): 1
+- MinerMk2 (BP_ResourceNode172): 1
+- MinerMk2 (BP_ResourceNode496): 1
+- MinerMk2 (BP_ResourceNode497_1): 1
+- MinerMk2 (BP_ResourceNode500): 1
+- MinerMk2 (BP_ResourceNode540): 1
+- MinerMk2 (BP_ResourceNode543): 1
+- MinerMk2 (BP_ResourceNode544): 1
+- MinerMk2 (BP_ResourceNode545): 1
+- MinerMk2 (BP_ResourceNode546): 1
+- MinerMk2 (BP_ResourceNode547): 1
+- MinerMk2 (BP_ResourceNode548): 1
+- MinerMk2 (BP_ResourceNode549): 1
+- MinerMk2 (BP_ResourceNode551): 1
+- MinerMk2 (BP_ResourceNode558): 1
+- MinerMk2 (BP_ResourceNode585): 1
+- MinerMk2 (BP_ResourceNode587): 1
+- MinerMk2 (BP_ResourceNode590): 1
+- MinerMk2 (BP_ResourceNode591): 1
+- MinerMk2 (BP_ResourceNode592): 1
+- MinerMk2 (BP_ResourceNode595): 1
+- MinerMk2 (BP_ResourceNode596): 1
+- MinerMk2 (BP_ResourceNode68_2514): 1
+- MinerMk2 (BP_ResourceNode70_3132): 1
+- MinerMk2 (BP_ResourceNode71_UAID_40B076DF2F7924DB01_1576108771): 1
+- MinerMk2 (BP_ResourceNode71_UAID_40B076DF2F7925DB01_1453678949): 1
+- MinerMk2 (BP_ResourceNode71_UAID_40B076DF2F7929DB01_1177072656): 1
+- MinerMk2 (BP_ResourceNode71_UAID_40B076DF2F797CDB01_1695622247): 1
+- MinerMk3 (BP_ResourceNode503): 1
+- MinerMk3 (BP_ResourceNode504): 1
+- MinerMk3 (BP_ResourceNode80): 1
+- MinerMk3 (BP_ResourceNode81): 1
+- OilPump (BP_ResourceNode100): 1
+- OilPump (BP_ResourceNode151): 1
+- OilPump (BP_ResourceNode152_995): 1
+- OilPump (BP_ResourceNode154): 1
+- OilPump (BP_ResourceNode155): 1
+- OilPump (BP_ResourceNode98): 1
+- OilRefinery (Alternate_PureIronIngot): 24
+- OilRefinery (Alternate_Turbofuel): 1
+- OilRefinery (AluminaSolution): 2
+- OilRefinery (AluminumScrap): 2
+- OilRefinery (Plastic): 8
+- OilRefinery (ResidualFuel): 3
+- OilRefinery (Rubber): 8
+- Packager (Fuel): 1
+- Packager (PackagedTurboFuel): 1
+- SmelterMk1 (IngotCaterium): 3
+- SmelterMk1 (IngotCopper): 10
+- SmelterMk1 (IngotIron): 28
+- WaterPump (FGWaterVolume103): 4
+- WaterPump (FGWaterVolume35_5): 16
+- WaterPump (FGWaterVolume77): 1
+
+## Train stations (6)
+Aix-en-Provence TGV, Goes, Ludvika, Sydney, Venray, Wuppertal
+
+## Map markers (118)
+- Uranium (-363, 3000)
+- Uranium (117, 2322)
+- Raw Quartz (352, 1184)
+- Gas + High Container (532, 1391)
+- Iron (-537, 2290)
+- Harvest Tree (480, 1527)
+- Pure Copper (-835, 2749)
+- 6 Pure Iron (-979, 2619)
+- Sulfer (-466, 1548)
+- Uranium Mine (348, 881)
+- Power (-752, 1312)
+- Beacon (-214, 2821)
+- Beacon (-213, 2820)
+- Beacon (-142, 2776)
+- Beacon (-142, 2777)
+- Beacon (-142, 2777)
+- Beacon (-142, 2777)
+- Beacon (-139, 2779)
+- Beacon (-140, 2779)
+- Beacon (-141, 2778)
+- Beacon (-142, 2778)
+- Beacon (-144, 2775)
+- Beacon (-142, 2774)
+- Radiation (1994, 1786)
+- Catium (1102, 1560)
+- New Marker (559, 1983)
+- Rock (-1780, 446)
+- Rock (-2167, 120)
+- Rock (-1466, 1586)
+- Rock (959, 2238)
+- Crash (476, 2135)
+- Crash (1528, 2123)
+- PURE SULFUR (-1454, 1672)
+- A10 - 25 Cooling System (2618, 1246)
+- A11 - 1 Electromagnetic Control Rod (123, 1142)
+- A12 - 30 Cooling System (903, 1296)
+- A16 - 10 Turbo Motor (-354, 1166)
+- B1 - 5 Copper Sheet (-1088, 1078)
+- B2 - 5 Crystal Oscillator (-1646, 1556)
+- B3 - 10 Silica (-1909, 669)
+- B4 - None (-1893, 1163)
+- B5 - None (-2596, 1050)
+- B6 - None (-782, 909)
+- B7 - 5 Aluminum Casing (-402, 630)
+- B8 - 300 MW (-1185, 749)
+- B9 - None (-1, 240)
+- B10 - 150 MW (-1291, 602)
+- B11 - 12 Heat Sink (-947, 403)
+- C1 - 1 Turbo Motor (-35, 623)
+- C2 - 420 MW (351, 165)
+- C3 - 10 Cooling System (-333, 52)
+- C4 - 5 Heavy Modular Frame (-952, 70)
+- C5 - 25 Electromagnetic Control Rod (943, 472)
+- C6 - None (1211, 453)
+- C7 - 15 Crystal Oscillator (1640, 613)
+- C8 - 17 Heat Sink (1445, 363)
+- C9 - None (1160, 214)
+- C10 - 400 MW (1914, 377)
+- C11 - 1 Turbo Motor (1701, -106)
+- C12 - None (1883, -171)
+- C13 - 90 MW (667, -136)
+- C14 - 60 MW (810, -441)
+- C15 - 20 Modular Frame (552, -513)
+- C16 - 20 Plastic (-291, -226)
+- C17 - 120 MW (-893, -506)
+- C18 - 2 Quartz Crystal (-561, -729)
+- D1 - 200 MW (2323, 799)
+- D2 - 25 Turbo Motor (2499, 595)
+- D3 - 25 Quartz Crystal (2321, 272)
+- D4 - 1 SKIP - Superposition Osc. (2161, -3)
+- D5 - 10 Heavy Modular Frame (2918, 748)
+- D6 - 60 Silica (2727, 281)
+- D7 - 25 Heat Sink (2325, -205)
+- D8 - 85 MW (2933, 1)
+- D9 - None (1255, -349)
+- D10 - 10 Heavy Modular Frame (1573, -402)
+- D11 - None (1984, -412)
+- D12 - 20 Plastic (2093, -669)
+- E1 - 10 Copper Sheet (1115, -545)
+- E2 - None (877, -630)
+- E3 - 2 Black Powder (-47, -763)
+- E4 - None (-263, -1290)
+- E5 - 1 Rotor (178, -1369)
+- E6 - 120 MW (-570, -1449)
+- E7 - None (983, -1498)
+- E8 - None (527, -1636)
+- E9 - 38 Quickwire (843, -1711)
+- E10 - 10 Computer (53, -1871)
+- E11 - None (-507, -2593)
+- E12 - unknown (1112, -1130)
+- E13 - 57 Alclad Aluminum Sheet (1909, -1277)
+- E14 - 12 Fused Modular Frame (1591, -1451)
+- E15 - 70 MW (1098, -1627)
+- E16 - None (1193, -1657)
+- E17 - 25 Screw (2191, -1999)
+- E18 - 35 High-Speed Connector (1908, -2368)
+- E19 - None (1762, -2440)
+- E20 - 43 Electromagnetic Control Rod (1749, -2764)
+- E21 - None (2365, -3122)
+- F1 - 15 Electromagnetic Control Rod (-1571, -63)
+- F2 - 10 Solid Biofuel (-2002, -178)
+- F3 - 120 MW (-1571, -670)
+- F4 - None (-1958, -592)
+- F5 - 21 Rotor (-2325, -514)
+- F6 - 5 Modular Frame (-1460, -1371)
+- F7 - 4 Rotor (-1237, -1671)
+- F8 - 100 MW (-2473, -1423)
+- F9 - 10 Copper Sheet (-1745, -1971)
+- G1 - None (2751, -526)
+- G2 - 5 Reinforced Iron Plate (3493, -388)
+- G3 - 5 Computer (3601, -1066)
+- G4 - 5 Iron Rod (2952, -1731)
+- G5 - 20 Steel Beam (3032, -2462)
+- G6 - 70 MW (3603, -2176)
+- G7 - None (3666, -3035)
+- P3 - nuclear plant site (-780, 1620)
+- New Marker (868, 1076)
+- New Marker (-1560, 1691)
+
+Detail: machines.csv (every machine with recipe, clock, position in metres), crash_sites.csv, map_markers.csv.
