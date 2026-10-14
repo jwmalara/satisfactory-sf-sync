@@ -1,7 +1,7 @@
 # Stino's Game
 
-Save time: 2026-10-13T07:15:47.178Z (file: Stino's Game_autosave_2.sav) · play time 4663.4 h · save v60 / build 513885
-Game phase: GP_Project_Assembly_Phase_3 · machines: 422 · crash sites opened: 0 of 118
+Save time: 2026-10-14T00:00:00.001Z (file: Stino's Game_autosave_1_continue.sav) · play time 4663.4 h · save v60 / build 513885
+Game phase: GP_Project_Assembly_Phase_3 · machines: 422 · crash sites opened: 36 of 118
 
 ## Milestones purchased (42)
 1-1, 1-2, 1-3, 2-1, 2-2, 2-3, 2-5, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 4-5, 5-1, 5-1-1, 5-2, 5-3, 5-4, 5-4-1, 5-5, 5-5-1, 6-1, 6-2, 6-3, 6-5, 6-6, 6-7, 7-1, 7-1-1, 7-2, 7-3, 7-4, 7-4-1, 7-5, 8-1, 8-2, 8-2-1, 8-3, 8-4

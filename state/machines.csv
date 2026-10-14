@@ -262,7 +262,7 @@ ManufacturerMk1,CartridgeChaos_Packaged,100,1,false,-6,2620,-17
 ManufacturerMk1,Computer,100,1,false,-128,2901,-9
 ManufacturerMk1,Computer,250,1,false,-128,2901,3
 ManufacturerMk1,Computer,250,1,false,-128,2901,15
-ManufacturerMk1,ComputerSuper,250,1,false,-71,2768,-8
+ManufacturerMk1,ComputerSuper,250,1,true,-71,2768,-8
 ManufacturerMk1,ComputerSuper,250,1.5,false,50,2819,-5
 ManufacturerMk1,ComputerSuper,250,1,false,50,2819,7
 ManufacturerMk1,ModularFrameHeavy,150,2,false,-159,2743,-10
