@@ -1,7 +1,7 @@
 # Stino's Game
 
-Save time: 2026-10-17T18:36:10.877Z (file: Stino's Game_autosave_0.sav) · play time 4663.5 h · save v60 / build 513885
-Game phase: GP_Project_Assembly_Phase_3 · machines: 422 · crash sites opened: 36 of 118
+Save time: 2026-10-17T22:16:09.759Z (file: Stino's Game_autosave_2.sav) · play time 4666.3 h · save v60 / build 513885
+Game phase: GP_Project_Assembly_Phase_3 · machines: 428 · crash sites opened: 36 of 118
 
 ## Milestones purchased (42)
 1-1, 1-2, 1-3, 2-1, 2-2, 2-3, 2-5, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 4-5, 5-1, 5-1-1, 5-2, 5-3, 5-4, 5-4-1, 5-5, 5-5-1, 6-1, 6-2, 6-3, 6-5, 6-6, 6-7, 7-1, 7-1-1, 7-2, 7-3, 7-4, 7-4-1, 7-5, 8-1, 8-2, 8-2-1, 8-3, 8-4
@@ -17,10 +17,10 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - OilRefinery: 48
 - SmelterMk1: 41
 - GeneratorCoal: 40
+- FoundryMk1: 30
 - MinerMk2: 28
 - GeneratorFuel: 27
 - AssemblerMk1: 25
-- FoundryMk1: 24
 - WaterPump: 21
 - ManufacturerMk1: 13
 - OilPump: 6
@@ -58,7 +58,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - ConstructorMk1 (SteelBeam): 5
 - ConstructorMk1 (SteelPipe): 5
 - ConstructorMk1 (Wire): 6
-- FoundryMk1 (Alternate_IngotSteel_1): 14
+- FoundryMk1 (Alternate_IngotSteel_1): 20
 - FoundryMk1 (IngotAluminum): 2
 - FoundryMk1 (IngotSteel): 8
 - GeneratorBiomass_Automated (Leaves): 4
