@@ -1,6 +1,6 @@
 # Stino's Game
 
-Save time: 2026-10-18T11:07:56.089Z (file: Stino's Game_autosave_2.sav) · play time 4674.2 h · save v60 / build 513885
+Save time: 2026-10-18T20:41:49.902Z (file: Stino's Game_autosave_2.sav) · play time 4675.8 h · save v60 / build 513885
 Game phase: GP_Project_Assembly_Phase_3 · machines: 438 · crash sites opened: 36 of 118
 
 ## Milestones purchased (42)
@@ -136,8 +136,8 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - WaterPump (FGWaterVolume35_5): 17
 - WaterPump (FGWaterVolume77): 1
 
-## Train stations (6)
-Aix-en-Provence TGV, Goes, Ludvika, Sydney, Venray, Wuppertal
+## Train stations (7)
+Aix-en-Provence TGV, Goes, Ludvika, Sydney, Venray, Verkebäcksbron, Wuppertal
 
 ## Map markers (119)
 - Uranium (-363, 3000)
