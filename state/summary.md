@@ -1,7 +1,7 @@
 # Stino's Game
 
-Save time: 2026-10-17T22:16:09.759Z (file: Stino's Game_autosave_2.sav) · play time 4666.3 h · save v60 / build 513885
-Game phase: GP_Project_Assembly_Phase_3 · machines: 428 · crash sites opened: 36 of 118
+Save time: 2026-10-18T01:03:25.862Z (file: Stino's Game_autosave_0.sav) · play time 4669.0 h · save v60 / build 513885
+Game phase: GP_Project_Assembly_Phase_3 · machines: 429 · crash sites opened: 36 of 118
 
 ## Milestones purchased (42)
 1-1, 1-2, 1-3, 2-1, 2-2, 2-3, 2-5, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 4-5, 5-1, 5-1-1, 5-2, 5-3, 5-4, 5-4-1, 5-5, 5-5-1, 6-1, 6-2, 6-3, 6-5, 6-6, 6-7, 7-1, 7-1-1, 7-2, 7-3, 7-4, 7-4-1, 7-5, 8-1, 8-2, 8-2-1, 8-3, 8-4
@@ -25,8 +25,8 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - ManufacturerMk1: 13
 - OilPump: 6
 - GeneratorGeoThermal: 5
+- MinerMk3: 5
 - GeneratorBiomass_Automated: 4
-- MinerMk3: 4
 - GeneratorIntegratedBiomass: 2
 - Packager: 2
 
@@ -104,6 +104,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - MinerMk2 (BP_ResourceNode71_UAID_40B076DF2F797CDB01_1695622247): 1
 - MinerMk3 (BP_ResourceNode503): 1
 - MinerMk3 (BP_ResourceNode504): 1
+- MinerMk3 (BP_ResourceNode598_0): 1
 - MinerMk3 (BP_ResourceNode80): 1
 - MinerMk3 (BP_ResourceNode81): 1
 - OilPump (BP_ResourceNode100): 1
@@ -131,7 +132,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 ## Train stations (6)
 Aix-en-Provence TGV, Goes, Ludvika, Sydney, Venray, Wuppertal
 
-## Map markers (118)
+## Map markers (119)
 - Uranium (-363, 3000)
 - Uranium (117, 2322)
 - Raw Quartz (352, 1184)
@@ -250,5 +251,6 @@ Aix-en-Provence TGV, Goes, Ludvika, Sydney, Venray, Wuppertal
 - P3 - nuclear plant site (-780, 1620)
 - New Marker (868, 1076)
 - New Marker (-1560, 1691)
+- New Marker (-1046, 623)
 
 Detail: machines.csv (every machine with recipe, clock, position in metres), crash_sites.csv, map_markers.csv.

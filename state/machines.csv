@@ -307,6 +307,7 @@ MinerMk2,BP_ResourceNode71_UAID_40B076DF2F7929DB01_1177072656,100,1,false,964,22
 MinerMk2,BP_ResourceNode71_UAID_40B076DF2F797CDB01_1695622247,100,1,false,-1450,1660,128
 MinerMk3,BP_ResourceNode503,250,1,false,-760,1306,-36
 MinerMk3,BP_ResourceNode504,250,1,false,-784,1292,-36
+MinerMk3,BP_ResourceNode598_0,100,1,false,-759,516,192
 MinerMk3,BP_ResourceNode80,250,1,false,-1676,1796,16
 MinerMk3,BP_ResourceNode81,250,1,false,-1644,1718,16
 OilPump,BP_ResourceNode100,100,1,false,1783,2061,-92
