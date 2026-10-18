@@ -24,10 +24,14 @@ AssemblerMk1,Rotor,100,1,false,-99,2674,-6
 AssemblerMk1,Rotor,100,1,false,-92,2678,2
 AssemblerMk1,Stator,100,1,false,-84,2683,-6
 AssemblerMk1,Stator,100,1,false,-84,2683,2
+Blender,UraniumCell,100,1,false,-731,1486,-45
+Blender,UraniumCell,100,1,false,-713,1486,-45
 ConstructorMk1,AluminumCasing,250,1,false,-277,2296,-13
 ConstructorMk1,Biofuel,100,1,false,9,2788,-8
 ConstructorMk1,Cable,100,1,false,-153,2800,-10
 ConstructorMk1,Cable,100,1,false,-153,2800,-4
+ConstructorMk1,Concrete,100,1,false,-859,1504,-47
+ConstructorMk1,Concrete,100,1,false,-859,1512,-47
 ConstructorMk1,Concrete,100,1,false,43,2721,-36
 ConstructorMk1,Concrete,100,1,false,43,2721,-28
 ConstructorMk1,Concrete,100,1,false,43,2721,-20
@@ -283,6 +287,7 @@ MinerMk2,BP_ResourceNode172,250,1,false,-241,2699,-133
 MinerMk2,BP_ResourceNode496,100,1,false,-491,2317,-37
 MinerMk2,BP_ResourceNode497_1,100,1,false,-516,2294,-37
 MinerMk2,BP_ResourceNode500,100,1,false,1572,2419,-61
+MinerMk2,BP_ResourceNode512,100,1,false,-890,1533,-29
 MinerMk2,BP_ResourceNode540,100,1,false,-333,2316,-13
 MinerMk2,BP_ResourceNode543,150,1,false,6,2838,-10
 MinerMk2,BP_ResourceNode544,150,1,false,-11,2853,-10
@@ -366,6 +371,7 @@ OilRefinery,Rubber,100,1,false,1507,2060,-93
 OilRefinery,Rubber,100,1,false,1517,2060,-93
 OilRefinery,Rubber,100,1,false,1527,2060,-93
 OilRefinery,Rubber,100,1,false,1537,2060,-93
+OilRefinery,SulfuricAcid,100,1,false,-692,1472,-45
 Packager,Fuel,100,1,false,70,2597,-36
 Packager,PackagedTurboFuel,100,1,false,158,2663,-36
 SmelterMk1,IngotCaterium,200,1,false,-1099,2433,-49
@@ -428,5 +434,6 @@ WaterPump,FGWaterVolume35_5,100,1,false,-713,1635,-55
 WaterPump,FGWaterVolume35_5,100,1,false,-693,1598,-55
 WaterPump,FGWaterVolume35_5,100,1,false,-693,1635,-55
 WaterPump,FGWaterVolume35_5,100,1,false,-674,1635,-55
+WaterPump,FGWaterVolume35_5,100,1,false,-673,1568,-55
 WaterPump,FGWaterVolume35_5,100,1,false,-673,1598,-55
 WaterPump,FGWaterVolume77,250,1,false,-77,2413,-7
