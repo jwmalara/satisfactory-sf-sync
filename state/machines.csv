@@ -264,6 +264,7 @@ GeneratorGeoThermal,BP_ResourceNodeGeyser_C_UAID_40B076DF2F79ADDD01_1447318011,1
 GeneratorGeoThermal,BP_ResourceNodeGeyser_C_UAID_40B076DF2F79ADDD01_1602669012,100,1,false,946,2185,0
 GeneratorIntegratedBiomass,,100,1,false,35,2772,-6
 GeneratorIntegratedBiomass,,100,1,false,38,2774,-6
+GeneratorNuclear,,100,1,false,-855,1721,-55
 ManufacturerMk1,CartridgeChaos_Packaged,100,1,false,-6,2620,-17
 ManufacturerMk1,Computer,100,1,false,-128,2901,-9
 ManufacturerMk1,Computer,250,1,false,-128,2901,3
@@ -301,6 +302,7 @@ MinerMk2,BP_ResourceNode595,100,1,false,-2171,112,177
 MinerMk2,BP_ResourceNode596,150,1,false,-1774,450,238
 MinerMk2,BP_ResourceNode68_2514,100,1,false,-368,2968,-23
 MinerMk2,BP_ResourceNode70_3132,115,1,false,-1316,2273,-7
+MinerMk2,BP_ResourceNode71_736,250,1,false,-1014,916,88
 MinerMk2,BP_ResourceNode71_UAID_40B076DF2F7924DB01_1576108771,100,1,false,948,2245,0
 MinerMk2,BP_ResourceNode71_UAID_40B076DF2F7925DB01_1453678949,200,1,false,913,2202,0
 MinerMk2,BP_ResourceNode71_UAID_40B076DF2F7929DB01_1177072656,100,1,false,964,2204,0
