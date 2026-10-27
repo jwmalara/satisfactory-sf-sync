@@ -1,9 +1,11 @@
 type,recipe_node_or_fuel,clock_pct,sloop_boost,paused,x_m,y_m,z_m
+AssemblerMk1,AILimiter,150,1,false,-161,2761,-10
 AssemblerMk1,Alternate_EnrichedCoal,100,1,false,117,2746,-36
 AssemblerMk1,Alternate_EnrichedCoal,100,1,false,117,2746,-28
 AssemblerMk1,AluminumSheet,250,1,false,-274,2312,-14
 AssemblerMk1,Cartridge,100,1,false,-4,2680,-17
 AssemblerMk1,CircuitBoard,100,1,false,-4,2803,-10
+AssemblerMk1,ElectromagneticControlRod,150,1,false,-208,2690,-10
 AssemblerMk1,EncasedIndustrialBeam,100,1,false,-53,2713,-9
 AssemblerMk1,EncasedIndustrialBeam,100,1,false,-53,2713,-1
 AssemblerMk1,EncasedIndustrialBeam,100,1,false,-53,2713,7

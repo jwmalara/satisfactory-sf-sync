@@ -1,7 +1,7 @@
 # Stino's Game
 
-Save time: 2026-10-27T00:00:00.002Z (file: Stino's Game_autosave_0_continue.sav) · play time 4676.1 h · save v60 / build 513885
-Game phase: GP_Project_Assembly_Phase_3 · machines: 438 · crash sites opened: 36 of 118
+Save time: 2026-10-27T04:53:15.198Z (file: Stino's Game_autosave_1.sav) · play time 4678.0 h · save v60 / build 513885
+Game phase: GP_Project_Assembly_Phase_3 · machines: 440 · crash sites opened: 36 of 118
 
 ## Milestones purchased (42)
 1-1, 1-2, 1-3, 2-1, 2-2, 2-3, 2-5, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 4-5, 5-1, 5-1-1, 5-2, 5-3, 5-4, 5-4-1, 5-5, 5-5-1, 6-1, 6-2, 6-3, 6-5, 6-6, 6-7, 7-1, 7-1-1, 7-2, 7-3, 7-4, 7-4-1, 7-5, 8-1, 8-2, 8-2-1, 8-3, 8-4
@@ -19,8 +19,8 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - GeneratorCoal: 40
 - FoundryMk1: 30
 - MinerMk2: 30
+- AssemblerMk1: 27
 - GeneratorFuel: 27
-- AssemblerMk1: 25
 - WaterPump: 22
 - ManufacturerMk1: 13
 - OilPump: 6
@@ -33,10 +33,12 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - GeneratorNuclear: 1
 
 ## Machine counts by type and recipe
+- AssemblerMk1 (AILimiter): 1
 - AssemblerMk1 (Alternate_EnrichedCoal): 2
 - AssemblerMk1 (AluminumSheet): 1
 - AssemblerMk1 (Cartridge): 1
 - AssemblerMk1 (CircuitBoard): 1
+- AssemblerMk1 (ElectromagneticControlRod): 1
 - AssemblerMk1 (EncasedIndustrialBeam): 4
 - AssemblerMk1 (Gunpowder): 2
 - AssemblerMk1 (IronPlateReinforced): 4
@@ -136,8 +138,8 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - WaterPump (FGWaterVolume35_5): 17
 - WaterPump (FGWaterVolume77): 1
 
-## Train stations (7)
-Aix-en-Provence TGV, Goes, Ludvika, Sydney, Venray, Verkebäcksbron, Wuppertal
+## Train stations (8)
+Aix-en-Provence TGV, Goes, Hamburg, Ludvika, Sydney, Tilburg, Venray, Wuppertal
 
 ## Map markers (119)
 - Uranium (-363, 3000)
