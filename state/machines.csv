@@ -6,6 +6,7 @@ AssemblerMk1,AluminumSheet,250,1,false,-274,2312,-14
 AssemblerMk1,Cartridge,100,1,false,-4,2680,-17
 AssemblerMk1,CircuitBoard,100,1,false,-4,2803,-10
 AssemblerMk1,ElectromagneticControlRod,150,1,false,-208,2690,-10
+AssemblerMk1,EncasedIndustrialBeam,100,1,false,-1544,1836,10
 AssemblerMk1,EncasedIndustrialBeam,100,1,false,-53,2713,-9
 AssemblerMk1,EncasedIndustrialBeam,100,1,false,-53,2713,-1
 AssemblerMk1,EncasedIndustrialBeam,100,1,false,-53,2713,7
@@ -32,6 +33,7 @@ ConstructorMk1,AluminumCasing,250,1,false,-277,2296,-13
 ConstructorMk1,Biofuel,100,1,false,9,2788,-8
 ConstructorMk1,Cable,100,1,false,-153,2800,-10
 ConstructorMk1,Cable,100,1,false,-153,2800,-4
+ConstructorMk1,Concrete,100,1,false,-1529,1848,10
 ConstructorMk1,Concrete,100,1,false,-859,1504,-47
 ConstructorMk1,Concrete,100,1,false,-859,1512,-47
 ConstructorMk1,Concrete,100,1,false,43,2721,-36
@@ -146,6 +148,7 @@ ConstructorMk1,Silica,100,1,false,153,2497,8
 ConstructorMk1,Silica,100,1,false,153,2505,8
 ConstructorMk1,Silica,100,1,false,153,2513,8
 ConstructorMk1,Silica,100,1,false,153,2521,8
+ConstructorMk1,SteelBeam,100,1,false,-1667,1741,18
 ConstructorMk1,SteelBeam,100,1,false,-46,2839,-10
 ConstructorMk1,SteelBeam,100,1,false,-42,2832,-10
 ConstructorMk1,SteelBeam,100,1,false,-38,2825,-10
@@ -270,7 +273,7 @@ GeneratorGeoThermal,BP_ResourceNodeGeyser_C_UAID_40B076DF2F79ADDD01_1447318011,1
 GeneratorGeoThermal,BP_ResourceNodeGeyser_C_UAID_40B076DF2F79ADDD01_1602669012,100,1,false,946,2185,0
 GeneratorIntegratedBiomass,,100,1,false,35,2772,-6
 GeneratorIntegratedBiomass,,100,1,false,38,2774,-6
-GeneratorNuclear,,100,1,false,-855,1721,-55
+GeneratorNuclear,,100,1,false,-681,1685,-55
 ManufacturerMk1,CartridgeChaos_Packaged,100,1,false,-6,2620,-17
 ManufacturerMk1,Computer,100,1,false,-128,2901,-9
 ManufacturerMk1,Computer,250,1,false,-128,2901,3
@@ -284,6 +287,7 @@ ManufacturerMk1,ModularFrameHeavy,250,1,false,-159,2743,14
 ManufacturerMk1,ModularFrameHeavy,250,1.75,false,-128,2710,-10
 ManufacturerMk1,ModularFrameHeavy,250,1,false,-128,2710,2
 ManufacturerMk1,ModularFrameHeavy,250,1,false,-128,2710,14
+ManufacturerMk1,NuclearFuelRod,100,1,false,-700,1515,-45
 MinerMk2,BP_ResourceNode136_UAID_40B076DF2F7975DF01_1622351243,250,1,false,553,2059,-57
 MinerMk2,BP_ResourceNode172,250,1,false,-241,2699,-133
 MinerMk2,BP_ResourceNode496,100,1,false,-491,2317,-37
@@ -314,6 +318,7 @@ MinerMk2,BP_ResourceNode71_UAID_40B076DF2F7924DB01_1576108771,100,1,false,948,22
 MinerMk2,BP_ResourceNode71_UAID_40B076DF2F7925DB01_1453678949,200,1,false,913,2202,0
 MinerMk2,BP_ResourceNode71_UAID_40B076DF2F7929DB01_1177072656,100,1,false,964,2204,0
 MinerMk2,BP_ResourceNode71_UAID_40B076DF2F797CDB01_1695622247,100,1,false,-1450,1660,128
+MinerMk2,BP_ResourceNode85,100,1,false,-1512,1844,11
 MinerMk3,BP_ResourceNode503,250,1,false,-760,1306,-36
 MinerMk3,BP_ResourceNode504,250,1,false,-784,1292,-36
 MinerMk3,BP_ResourceNode598_0,100,1,false,-759,516,192
@@ -435,7 +440,5 @@ WaterPump,FGWaterVolume35_5,100,1,false,-713,1598,-55
 WaterPump,FGWaterVolume35_5,100,1,false,-713,1635,-55
 WaterPump,FGWaterVolume35_5,100,1,false,-693,1598,-55
 WaterPump,FGWaterVolume35_5,100,1,false,-693,1635,-55
-WaterPump,FGWaterVolume35_5,100,1,false,-674,1635,-55
-WaterPump,FGWaterVolume35_5,100,1,false,-673,1568,-55
-WaterPump,FGWaterVolume35_5,100,1,false,-673,1598,-55
+WaterPump,FGWaterVolume35_5,100,1,false,-681,1563,-55
 WaterPump,FGWaterVolume77,250,1,false,-77,2413,-7

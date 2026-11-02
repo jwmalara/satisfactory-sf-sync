@@ -1,7 +1,7 @@
 # Stino's Game
 
-Save time: 2026-11-02T00:00:01.315Z (file: Stino's Game_autosave_2.sav) · play time 4678.6 h · save v60 / build 513885
-Game phase: GP_Project_Assembly_Phase_3 · machines: 440 · crash sites opened: 36 of 118
+Save time: 2026-11-02T04:05:30.984Z (file: Stino's Game_autosave_0.sav) · play time 4681.6 h · save v60 / build 513885
+Game phase: GP_Project_Assembly_Phase_3 · machines: 443 · crash sites opened: 36 of 118
 
 ## Milestones purchased (42)
 1-1, 1-2, 1-3, 2-1, 2-2, 2-3, 2-5, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 4-5, 5-1, 5-1-1, 5-2, 5-3, 5-4, 5-4-1, 5-5, 5-5-1, 6-1, 6-2, 6-3, 6-5, 6-6, 6-7, 7-1, 7-1-1, 7-2, 7-3, 7-4, 7-4-1, 7-5, 8-1, 8-2, 8-2-1, 8-3, 8-4
@@ -13,16 +13,16 @@ EnrichedCoal, IngotSteel1, InventorySlots1, InventorySlots2, Motor1, Plastic1, P
 Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DNACapsule, Research_AO_Hatcher, Research_AO_Pre_Rebar, Research_AO_Stinger, Research_AOrganisms_2, Research_AOrgans_0, Research_AOrgans_2, Research_AOrgans_3, Research_Alien_ActiveSAM, Research_Alien_BoosterBlocker, Research_Alien_CentralInventory, Research_Alien_CentralStackExpansion_01, Research_Alien_CentralStackExpansion_02, Research_Alien_CentralStorage, Research_Alien_CentralUploadBoost_01, Research_Alien_MercerSphere, Research_Alien_PowerBooster, Research_Alien_ProductionBooster, Research_Alien_SAM, Research_Alien_SAMFluctuator, Research_Alien_Somersloop, Research_Caterium_0, Research_Caterium_1, Research_Caterium_2, Research_Caterium_2_1, Research_Caterium_3, Research_Caterium_3_1, Research_Caterium_3_2, Research_Caterium_4_1, Research_Caterium_4_2, Research_Caterium_5, Research_Caterium_5_2, Research_Caterium_6_2, Research_Caterium_6_3, Research_Caterium_7_2, Research_HardDrive_0, Research_Mycelia_1, Research_Mycelia_2, Research_Mycelia_3, Research_Mycelia_4, Research_Mycelia_5, Research_Mycelia_6, Research_Mycelia_7, Research_Mycelia_GasMask, Research_Nutrients_0, Research_Nutrients_1, Research_Nutrients_2, Research_Nutrients_3, Research_Nutrients_4, Research_PowerSlugs_1, Research_PowerSlugs_2, Research_PowerSlugs_3, Research_PowerSlugs_4, Research_PowerSlugs_5, Research_Quartz_0, Research_Quartz_1_1, Research_Quartz_1_2, Research_Quartz_2, Research_Quartz_3_1, Research_Quartz_4, Research_Quartz_4_1, Research_Sulfur_0, Research_Sulfur_1, Research_Sulfur_3, Research_Sulfur_3_1, Research_Sulfur_4_1, Research_Sulfur_4_2, Research_Sulfur_5, Research_Sulfur_5_2, Research_Sulfur_5_2_Hidden, Research_Sulfur_6, Research_Sulfur_CompactedCoal, Research_Sulfur_ExperimentalPower, Research_Sulfur_TurboFuel
 
 ## Machine counts by type
-- ConstructorMk1: 134
+- ConstructorMk1: 136
 - OilRefinery: 49
 - SmelterMk1: 41
 - GeneratorCoal: 40
+- MinerMk2: 31
 - FoundryMk1: 30
-- MinerMk2: 30
-- AssemblerMk1: 27
+- AssemblerMk1: 28
 - GeneratorFuel: 27
-- WaterPump: 22
-- ManufacturerMk1: 13
+- WaterPump: 20
+- ManufacturerMk1: 14
 - OilPump: 6
 - GeneratorGeoThermal: 5
 - MinerMk3: 5
@@ -39,7 +39,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - AssemblerMk1 (Cartridge): 1
 - AssemblerMk1 (CircuitBoard): 1
 - AssemblerMk1 (ElectromagneticControlRod): 1
-- AssemblerMk1 (EncasedIndustrialBeam): 4
+- AssemblerMk1 (EncasedIndustrialBeam): 5
 - AssemblerMk1 (Gunpowder): 2
 - AssemblerMk1 (IronPlateReinforced): 4
 - AssemblerMk1 (ModularFrame): 4
@@ -50,7 +50,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - ConstructorMk1 (AluminumCasing): 1
 - ConstructorMk1 (Biofuel): 1
 - ConstructorMk1 (Cable): 2
-- ConstructorMk1 (Concrete): 8
+- ConstructorMk1 (Concrete): 9
 - ConstructorMk1 (CopperSheet): 6
 - ConstructorMk1 (FluidCanister): 1
 - ConstructorMk1 (IngotSAM): 3
@@ -60,7 +60,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - ConstructorMk1 (Quickwire): 6
 - ConstructorMk1 (Screw): 32
 - ConstructorMk1 (Silica): 4
-- ConstructorMk1 (SteelBeam): 5
+- ConstructorMk1 (SteelBeam): 6
 - ConstructorMk1 (SteelPipe): 5
 - ConstructorMk1 (Wire): 6
 - FoundryMk1 (Alternate_IngotSteel_1): 20
@@ -80,6 +80,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - ManufacturerMk1 (Computer): 3
 - ManufacturerMk1 (ComputerSuper): 3
 - ManufacturerMk1 (ModularFrameHeavy): 6
+- ManufacturerMk1 (NuclearFuelRod): 1
 - MinerMk2 (BP_ResourceNode136_UAID_40B076DF2F7975DF01_1622351243): 1
 - MinerMk2 (BP_ResourceNode172): 1
 - MinerMk2 (BP_ResourceNode496): 1
@@ -110,6 +111,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - MinerMk2 (BP_ResourceNode71_UAID_40B076DF2F7925DB01_1453678949): 1
 - MinerMk2 (BP_ResourceNode71_UAID_40B076DF2F7929DB01_1177072656): 1
 - MinerMk2 (BP_ResourceNode71_UAID_40B076DF2F797CDB01_1695622247): 1
+- MinerMk2 (BP_ResourceNode85): 1
 - MinerMk3 (BP_ResourceNode503): 1
 - MinerMk3 (BP_ResourceNode504): 1
 - MinerMk3 (BP_ResourceNode598_0): 1
@@ -135,7 +137,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 - SmelterMk1 (IngotCopper): 10
 - SmelterMk1 (IngotIron): 28
 - WaterPump (FGWaterVolume103): 4
-- WaterPump (FGWaterVolume35_5): 17
+- WaterPump (FGWaterVolume35_5): 15
 - WaterPump (FGWaterVolume77): 1
 
 ## Train stations (8)
