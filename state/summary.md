@@ -1,6 +1,6 @@
 # Stino's Game
 
-Save time: 2026-11-01T00:00:00.025Z (file: Stino's Game_autosave_0_continue.sav) · play time 4678.0 h · save v60 / build 513885
+Save time: 2026-11-02T00:00:01.315Z (file: Stino's Game_autosave_2.sav) · play time 4678.6 h · save v60 / build 513885
 Game phase: GP_Project_Assembly_Phase_3 · machines: 440 · crash sites opened: 36 of 118
 
 ## Milestones purchased (42)
@@ -141,7 +141,7 @@ Research_ACarapace_0, Research_ACarapace_2, Research_ACarapace_3, Research_AO_DN
 ## Train stations (8)
 Aix-en-Provence TGV, Goes, Hamburg, Ludvika, Sydney, Tilburg, Venray, Wuppertal
 
-## Map markers (119)
+## Map markers (120)
 - Uranium (-363, 3000)
 - Uranium (117, 2322)
 - Raw Quartz (352, 1184)
@@ -261,5 +261,6 @@ Aix-en-Provence TGV, Goes, Hamburg, Ludvika, Sydney, Tilburg, Venray, Wuppertal
 - New Marker (868, 1076)
 - New Marker (-1560, 1691)
 - New Marker (-1046, 623)
+- Atomic Waste Site (-344, 1274)
 
 Detail: machines.csv (every machine with recipe, clock, position in metres), crash_sites.csv, map_markers.csv.
